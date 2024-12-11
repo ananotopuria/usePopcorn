@@ -56,6 +56,7 @@ body {
   border-radius: 0.9rem;
   overflow: scroll;
   position: relative;
+  
 }
 
 .loader {
@@ -138,7 +139,7 @@ body {
 .list {
   list-style: none;
   padding: 0.8rem 0;
-  overflow: scroll;
+  /* overflow: scroll; */
 }
 
 .list-watched {
